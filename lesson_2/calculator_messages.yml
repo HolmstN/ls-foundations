@@ -1,0 +1,4 @@
+# calculator_messages.yml
+
+welcome: "Welcome to Calculator! Enter your name:"
+valid_name: "Make sure to end a valid name."

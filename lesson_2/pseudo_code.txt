@@ -1,0 +1,45 @@
+# 1. A method that returns the sum of two integers
+#INFORMAL
+
+Accept one integer
+Accept second integer
+
+Create a method to act upon integers
+  - sum integers together and save
+
+Output the saved value
+
+#FORMAL
+
+START
+
+GET num1 = 1
+GET num2 = 2
+
+SET sum = num1 + num2
+
+READ sum
+
+END
+
+
+# 2. method that takes an array of strings, returns a string that is all those strings concat
+
+#INFORMAL
+
+Given an array of strings
+
+Iterate over each string at index, adding it to a concatenated string sum
+Output the concatenated string
+
+#FORMAL
+
+START
+
+GET arr = ["One","Fish","Two","Fish"]
+
+WHILE iterator < length of array
+  SET string += value at index
+
+PRINT string
+END
