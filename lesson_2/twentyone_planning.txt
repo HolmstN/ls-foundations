@@ -1,0 +1,19 @@
+twentyone planning
+
+DEALER with a DECK of 52 cards
+ONE (OR MORE?) PLAYER(S)
+
+DEALER and PLAYER receive TWO CARDS each
+PLAYER knows their hand and one of DEALER'S hand
+
+PLAYER goes first
+"HIT" if they want
+"STAY" if they want
+
+DEALER must:
+"HIT" until total >= 17
+"STAY" otherwise
+
+COMPARE card values for winner
+
+BUST if, at any time, player goes over 21.
